@@ -2,7 +2,7 @@
 
 Welcome to Car Hub, a Next.js 13 application designed to provide users with detailed information about car models. Whether you're a car enthusiast or simply looking for information about different car makes and models, Car Hub has got you covered. You can search for car makes and models, filter by fuel type and year, and access a wide range of car details.
 
-![carhub](https://github.com/winghojackyli/car-showcase/assets/108389005/7d73b8cb-148d-439c-9c8f-1cf4ce591351)
+![carhub-eta-kohl vercel app_](https://github.com/winghojackyli/car-showcase/assets/108389005/87e0fdfb-1906-4f90-9ba0-e1b7592653df)
 
 ## Features
 
